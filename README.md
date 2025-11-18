@@ -7,8 +7,7 @@ My only discord is hook.op
 <br>
 
 
-<details>
-I love coding full projects combining multiple programming languages
+
 </details>
 Currently learning python
 <br>
